@@ -1,7 +1,13 @@
 <<<<<<< HEAD
-# Todo-List-App
+#  Create Todo-List-App Using React Js
 =======
-# React + Vite
+# Begin 
+# npm create vite@latest
+# npm install
+# npm run dev
+# install tailwind css 
+# configure tailwind.config.js
+# add tailwind directives to the index.css file
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
